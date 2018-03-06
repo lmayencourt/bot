@@ -1,8 +1,7 @@
 # bot
 This is the common workspace for the bot project : A consortium of charming people working together to achieve the ultimate goal of satisfying the desire to build an awesome robot.
 
-<img src="./doc/img/bot_not_assembled.jpg" width="200">
-<img src="./doc/img/bot_assembled.jpeg" width="200">
+<img src="./doc/img/bot_not_assembled.jpg" width="200"> <img src="./doc/img/bot_assembled.jpeg" width="200">
 
 ## parts: 
 | Nbr | Description | Link |
